@@ -2,7 +2,7 @@
 This project is created by team **4loop**. We are a group of individuals from diverse backgrounds who came together as part of the Eskwelabs Data Science Cohort 11. In our first sprint, we collaborated to create a data-driven presentation on financial inclusion entitled **Bridging the Gender Gap Towards Financial Inclusion in the PH: A Data-Driven Approach**. We visualized and analyzed the data for a research project aimed at explaining the gender gap in financial inclusion in the Philippines. The project uses data from the 2021 Global Findex database, which is wrangled and analyzed using Python Pandas, exploratory data analysis, and unsupervised machine learning.
 
 ## Project Deployment
-[Bridging the Gender Gap Towards Financial Inclusion in the PH: A Data-Driven Approach Streamlit](https://jlrn-rph-eskwelabs-sprint-1-financial-inclusion-app-vtti85.streamlit.app/)
+[Bridging the Gender Gap Towards Financial Inclusion in the PH: A Data-Driven Approach Streamlit](https://4loop-bridging-gender-gap-financial-inclusion.streamlit.app/)
 
 ## How to Run Locally
 To run the code, please follow these steps:
