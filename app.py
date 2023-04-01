@@ -1,6 +1,8 @@
 import pandas as pd
 import streamlit as st
 
+st.set_page_config(page_title='Bridging the Gender Gap Towards Financial Inclusion in the PH: A Data-Driven Approach')
+
 #  Function that loads the data from a CSV file into a Pandas DataFrame
 def load_data():
     data = pd.read_csv(
