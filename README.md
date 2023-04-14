@@ -20,3 +20,5 @@ In conclusion, this project highlights the factors that contribute to the gender
 
 ## Meet the Team
 [Ben Estera](https://www.linkedin.com/in/benestera/) | [Jox Latigar](https://www.linkedin.com/in/jokkaz-latigar-7bbb07190/) | [Denise Montecastro](https://www.linkedin.com/in/denise-montecastro-573b34a2/) | [Justin Louise Neypes](https://www.linkedin.com/in/jlrnrph/)
+
+Mentor: Ron Flores
