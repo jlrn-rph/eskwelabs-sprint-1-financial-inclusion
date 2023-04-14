@@ -2,4 +2,4 @@ Group (4) 4loop: Bridging the Gender Gap Towards Financial Inclusion in the PH: 
 
 Ben Estera | Jox Latigar | Denise Montecastro | Justin Louise Neypes
 
-Deployed app: https://jlrn-rph-eskwelabs-sprint-1-financial-inclusion-app-vtti85.streamlit.app/
+Deployed app: https://4loop-bridging-gender-gap-financial-inclusion.streamlit.app/

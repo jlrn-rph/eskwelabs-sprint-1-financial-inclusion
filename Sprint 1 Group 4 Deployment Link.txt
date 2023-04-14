@@ -1,5 +1,0 @@
-Group (4) 4loop: Bridging the Gender Gap Towards Financial Inclusion in the PH: A Data-Driven Approach
-
-Ben Estera | Jox Latigar | Denise Montecastro | Justin Louise Neypes
-
-Deployed app: https://4loop-bridging-gender-gap-financial-inclusion.streamlit.app/
